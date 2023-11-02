@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="Bierman Autism Centers, Massachusetts"
               position="Behavior Technician"
-              description="||	Offered individual clinical services to children between the ages of 3 and 12 who have autism spectrum disorder. 
+              description="||	Offered individual clinical services to children between the ages of 3 and 12 who have been diagnosed with autism. 
               ||	Established an engaging educational setting that promotes enjoyable learning. 
               ||	Fostered the growth of essential everyday life and academic abilities ||  
               "
