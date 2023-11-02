@@ -17,15 +17,13 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I'm <b className="purple">Mahek Bhagchandani</b>, and I hold a <b className="purple">B.Sc. in Psychology</b>. 
             
-              <br />My journey has led me to become a <b className="purple">Behavior Technician</b>, specializing in working with children on the <b className="purple">autism spectrum</b>. 
-             
-              <br /> My passion for this field is unwavering, and it drives me to <b className="purple">create a nurturing and supportive environment for these exceptional kids</b>. 
-              <br />I'm dedicated to continuous learning and advocacy, and I've witnessed significant personal and professional growth in the realm of autism care. 
-              <br />It's a profound privilege to make a positive impact on the lives of these incredible children, and it's a journey I cherish every day.
-              
-              
+              I'm <b className="purple">Mahek Bhagchandani</b>, a <b className="purple">B.Sc. Psychology</b> graduate with a passion for <b className="purple">supporting children on the autism spectrum.</b> 
+              <br />As a dedicated <b className="purple">Behavior Technician</b>, I create <b className="purple">nurturing environments</b> for these exceptional kids, fostering their growth. 
+              <br />My journey in <b className="purple">autism care</b> is both fulfilling and transformative. 
+              <br />Looking ahead, I'm focused on <b className="purple">Industrial and Organizational Psychology, specializing in talent analytics.</b> 
+              <br />Leveraging my expertise from hands-on experience as a Behavior Technician, along with my academic background and extracurricular involvement at <b className="purple">Lynn University</b>, 
+              <br />I am poised for impactful growth in this field
               
             </p>
           </Col>
